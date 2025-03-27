@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🌱 I’m currently learning ...
+- 📫 How to reach me: contact me through LinkedIn
 <!--
 **joshuaLCary/joshuaLCary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

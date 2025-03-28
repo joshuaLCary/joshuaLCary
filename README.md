@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 🔭 I’m currently working on my own personal Game, in the style of Retro Text-Based Adventure games (i.e. *Zork*, *Wizard's Castle*, etc)
-- 🌱 I’m currently learning computer systems, C, and x64 Assembly
+- 🌱 I’m currently learning more computer systems, C, and x64 Assembly
 - 📫 How to reach me: contact me through LinkedIn
 Some Examples of my work can be found [Here] ()
 <!--

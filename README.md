@@ -1,9 +1,8 @@
-## Hi there 👋
-- 🔭 I’m currently working on my own personal Game, in the style of Retro Text-Based Adventure games (i.e. *Zork*, *Wizard's Castle*, etc)
-- 🌱 I’m currently learning more computer systems, C, and x64 Assembly
-- 📫 How to reach me: contact me through LinkedIn
-
-Some Examples of my work can be found [Here] ()
+## Welcome, Welcome! 👋  
+- 🔭 I’m currently working on my own personal Game, in the style of Retro Text-Based Adventure games (i.e. *Zork*, *Wizard's Castle*, etc)  
+- 🌱 I’m currently learning more computer systems, C, and x64 Assembly  
+- 📫 How to reach me: contact me through LinkedIn  
+Some Examples of my work can be found [Here](https://github.com/joshuaLCary/joshuaLCary/blob/main/guide.md)
 <!--
 **joshuaLCary/joshuaLCary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

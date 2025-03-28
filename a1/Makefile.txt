@@ -1,0 +1,11 @@
+
+ASSIGNMENT=a1
+COURSE=csci241_24w
+TARGET=cslinux:/web/faculty/wehrwes/courses/$(COURSE)/
+
+build:
+	pandoc $(ASSIGNMENT).md --mathjax -s --toc --toc-depth=2 -c ../md.css --to=html5 -o index.html
+
+publish: build
+	rsync -avz index.html $(TARGET)/$(ASSIGNMENT)
+
